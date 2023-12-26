@@ -6,10 +6,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Calebe-Marques&show_icons=true&theme=tokyonight&count_private=true)
 
 ## About Me 😁:
+Sou desenvolvedor Back-End fascinado pela tecnologia e em busca constante por conhecimento!
+
 -> Estagiário na Matrix Energia<br>
 -> Cursando o 4° Semestre de ADS na São Paulo Tech School
-
-Sou desenvolvedor Back-End fascinado pela tecnologia e em busca constante por conhecimento!
 
 ## Stacks💻: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,spring,py,fastapi,azure,aws,gcp,docker,kubernetes,mysql)](https://skillicons.dev)
