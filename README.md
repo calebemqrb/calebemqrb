@@ -3,7 +3,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marquesrb_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Calebe-Marques&count_private=true&show_icons=true&theme=tokyonight)
+<div>
+  <a href="https://github.com/Calebe-Marques">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Calebe-Marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div/>
 
 ## About Me 😁:
 Sou desenvolvedor Back-End fascinado pela tecnologia e em busca constante por conhecimento!
