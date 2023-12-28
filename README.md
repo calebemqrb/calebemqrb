@@ -11,8 +11,9 @@
 ## About Me 😁:
 Sou desenvolvedor Back-End fascinado pela tecnologia e em busca constante por conhecimento!
 
--> Estagiário na Matrix Energia<br>
--> Cursando o 4° Semestre de ADS na São Paulo Tech School
+• Estagiário na Matrix Energia
+
+• Cursando o 4° Semestre de ADS na São Paulo Tech School
 
 ## Stacks💻: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,spring,py,fastapi,azure,aws,gcp,docker,kubernetes,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,react,tailwind,nodejs,java,spring,py,fastapi,selenium,mysql,azure,aws,gcp,docker,kubernetes,git)](https://skillicons.dev)
