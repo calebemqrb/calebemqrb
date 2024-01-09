@@ -9,7 +9,7 @@ Sou desenvolvedor Back-End fascinado pela tecnologia e em busca constante por co
 <div>
   <a href="https://github.com/Calebe-Marques">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Calebe-Marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="418em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe-Marques&layout=compact&theme=tokyonight&"/>
+  <img width="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calebe-Marques&layout=compact&theme=tokyonight&"/>
 <div/>
 
 ## Stacks💻: 
