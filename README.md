@@ -8,7 +8,7 @@ Sou desenvolvedor Back-End fascinado pela tecnologia e em busca constante por co
 
 <div>
   <a href="https://github.com/calebemqrb">
-<!--   <img width="47.25%" src="https://github-readme-stats.vercel.app/api?username=calebemqrb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <img width="47.25%" src="https://github-readme-stats.vercel.app/api?username=calebemqrb&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img width="42.35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebemqrb&layout=compact&theme=tokyonight&"/>
 <div/>
 
