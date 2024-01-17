@@ -8,8 +8,8 @@ Sou desenvolvedor Back-End fascinado pela tecnologia e em busca constante por co
 
 <div>
   <a href="https://github.com/calebemqrb">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=calebemqrb&show_icons=true&theme=tokyonight"/>
-  <img width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebemqrb&layout=compact&theme=tokyonight&"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=calebemqrb&show_icons=true&theme=tokyonight"/>
+  <img width="30.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebemqrb&layout=compact&theme=tokyonight&"/>
 <div/>
 
 ## Stacks💻: 
