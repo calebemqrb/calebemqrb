@@ -3,10 +3,10 @@
 Sou desenvolvedor Back-End fascinado pela tecnologia e em busca constante por conhecimento!
 
 <div>
-  <a href="https://github.com/calebemqrb">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=calebemqrb&show_icons=true&theme=tokyonight"/>
-  <img width="34%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebemqrb&layout=compact&theme=tokyonight&"/>
+  <img href="https://github.com/calebemqrb" width="44.7%" src="https://github-readme-stats.vercel.app/api?username=calebemqrb&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img  href="https://github.com/calebemqrb" width="34%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebemqrb&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 <div/>
+
 
 ## Stacks💻: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,react,figma,tailwind,nodejs,java,spring,py,fastapi,selenium,mysql,postgres,azure,aws,gcp,docker,kubernetes,git,github,postman)](https://skillicons.dev)
