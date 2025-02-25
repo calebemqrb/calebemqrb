@@ -9,7 +9,7 @@ Sou desenvolvedor Back-End fascinado pela tecnologia e em busca constante por co
 
 
 ## Stacks💻: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,react,figma,tailwind,nodejs,java,spring,py,fastapi,selenium,mysql,postgres,azure,aws,gcp,docker,kubernetes,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,selenium,mysql,azure,docker,kubernetes,git,github,postman)](https://skillicons.dev)
 
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebemarquesreboucas/)
